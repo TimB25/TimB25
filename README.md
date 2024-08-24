@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TimB25
-- 👀 I’m interested in Programming in general, but especialy in minecraft Programming. 
-- 🌱 I’m currently learning informatica on school
-- 💞️ I’m curently working on a website.
+- 👀 I’m interested in Programming and experimenting with new things. 
+- 🌱 I’m currently learning informatica at school.
+- I have made a website about the battle of the mookerheide. (Dutch) : https://www.beleefgeschiedenis.nl
 
 
 <!---
