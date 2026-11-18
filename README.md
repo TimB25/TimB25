@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TimB25
 - 👀 I’m interested in Programming and experimenting with new things. 
-- 🌱 I’m currently learning informatica at school.
+- 🌱 I’m currently studying Artificial Intelligence at Radboud University
 - I have made a website about the battle of the mookerheide. (Dutch) : https://www.beleefgeschiedenis.nl
 
 
